@@ -1,0 +1,34 @@
+.App-header {
+    background-color: #282c34;
+    min-height: 15vh;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    font-size: 40px;
+    color: white;
+    gap: 20px;
+}
+
+#Login-button {
+    margin-left: auto;
+    font-size: 5vh;
+}
+
+#Register-button {
+    font-size: 5vh;
+    margin-right: 20px;
+}
+
+#Organize-button {
+    margin-left: auto;
+    font-size: 5vh;
+}
+
+#Logout-button {
+    font-size: 5vh;
+    margin-right: 20px;
+}
+
+.Hello {
+    margin-left: 5ch;
+}

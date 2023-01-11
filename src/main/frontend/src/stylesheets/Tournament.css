@@ -1,0 +1,43 @@
+.Tournament-main-info {
+    text-align: center;
+}
+
+.Tournament-layout {
+    display: flex;
+    flex-direction: row;
+}
+
+.Tournament-info {
+    display: flex;
+    flex-direction: column;
+    flex: 1 1 0;
+    text-align: center;
+}
+
+.Tournament-participants {
+    display: flex;
+    flex-direction: column;
+    flex: 1 1 0;
+    border-left-style: solid;
+    border-right-style: solid;
+    text-align: center;
+}
+
+.Tournament-games {
+    display: flex;
+    flex-direction: column;
+    flex: 1 1 0;
+    text-align: center;
+}
+
+.Time-left-closed {
+    color: red;
+}
+
+.Great-date {
+    font-size: 25px;
+}
+
+.Apply-button {
+    font-size: 25px;
+}

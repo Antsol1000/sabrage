@@ -1,0 +1,8 @@
+.Tournament-list-item {
+    border-bottom-style: solid;
+    text-align: center;
+}
+
+.Time-left-closed {
+    color: red;
+}

@@ -1,0 +1,15 @@
+.Login-form {
+    display: flex;
+    flex-direction: row;
+}
+
+.Form-elements {
+    display: flex;
+    flex-direction: column;
+}
+
+.Form-elements > * {
+    padding: 10px;
+    margin-right: 20px;
+    font-size: 25px;
+}
